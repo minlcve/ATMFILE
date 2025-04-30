@@ -16,8 +16,8 @@ The program runs in a loop, allowing users to create an account, log in, and per
 
 ## Features
 
-- **Create Account**: A user can create a new account by entering a user ID and password.
-- **Login**: Users can log in with their existing user ID and password.
+- __Create Account__: A user can create a new account by entering a user ID and password.
+- Login: Users can log in with their existing user ID and password.
 - **Banking Actions** (after successful login):
   - Deposit money into the account.
   - Withdraw money from the account.
